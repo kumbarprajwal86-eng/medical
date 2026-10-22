@@ -1,0 +1,8 @@
+{
+  "name": "MediVault AI — Intelligent Medical History Management System",
+  "description": "Secure, cross-hospital medical history management platform with consent-based record sharing, auditable doctor access, and clinician-reviewed Gemini AI summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
